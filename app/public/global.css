@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap');
+
+@font-face {
+	font-family: 'DSEG7Classic';
+	src: url('./fonts/DSEG7Classic-Bold.woff2') format('woff2');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Nunito, sans-serif;
+}
+
+body {
+	/* padding: 10px; */
+}
